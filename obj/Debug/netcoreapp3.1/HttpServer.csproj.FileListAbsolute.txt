@@ -1,0 +1,13 @@
+C:\Users\Admin\Desktop\Learning\HttpServer\bin\Debug\netcoreapp3.1\HttpServer.exe
+C:\Users\Admin\Desktop\Learning\HttpServer\bin\Debug\netcoreapp3.1\HttpServer.deps.json
+C:\Users\Admin\Desktop\Learning\HttpServer\bin\Debug\netcoreapp3.1\HttpServer.runtimeconfig.json
+C:\Users\Admin\Desktop\Learning\HttpServer\bin\Debug\netcoreapp3.1\HttpServer.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\Learning\HttpServer\bin\Debug\netcoreapp3.1\HttpServer.dll
+C:\Users\Admin\Desktop\Learning\HttpServer\bin\Debug\netcoreapp3.1\HttpServer.pdb
+C:\Users\Admin\Desktop\Learning\HttpServer\obj\Debug\netcoreapp3.1\HttpServer.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\Learning\HttpServer\obj\Debug\netcoreapp3.1\HttpServer.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Learning\HttpServer\obj\Debug\netcoreapp3.1\HttpServer.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Learning\HttpServer\obj\Debug\netcoreapp3.1\HttpServer.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Learning\HttpServer\obj\Debug\netcoreapp3.1\HttpServer.dll
+C:\Users\Admin\Desktop\Learning\HttpServer\obj\Debug\netcoreapp3.1\HttpServer.pdb
+C:\Users\Admin\Desktop\Learning\HttpServer\obj\Debug\netcoreapp3.1\HttpServer.genruntimeconfig.cache
